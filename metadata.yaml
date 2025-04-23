@@ -1,0 +1,49 @@
+_repo: Kurjet-b-Romaani_75648
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+description: 'Reading ease score: 53.6 (10th to 12th grade). Somewhat difficult to
+  read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75648'
+language: fi
+pgterms:marc905: 20250128011247talvio
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+summary: '"Kurjet" by Maila Talvio is a novel written in the early 20th century. The
+  book explores themes of family, shame, and societal expectations through the lens
+  of the Tuuna family, particularly focusing on the protagonist, Riikka Tuuna. As
+  the narrative unfolds, we delve into the emotional turmoil and conflicts within
+  the Tuuna household as they grapple with a sense of disgrace tied to their neighbor’s
+  actions.  The opening of "Kurjet" introduces Riikka Tuuna as she lays awake in her
+  bed, enveloped in a profound sense of shame and unrest. The narrative paints a picture
+  of a cold February night, where Riikka reflects on the changes in her life and the
+  lives of her family members due to a recent scandal involving her brother and their
+  neighbor’s wife, Sylvi. As she anxiously awaits her brother Toivo''s return, the
+  tension mounts, revealing her internal struggles, memories of her past, and anxieties
+  about the present situation. The atmosphere is charged with a mix of nostalgia and
+  foreboding, hinting at the conflicts that will unravel in the relationships governed
+  by family loyalty and societal judgment. (This is an automatically generated summary.)'
+title: 'Kurjet : $b Romaani'
+url: http://www.gutenberg.org/ebooks/75648
